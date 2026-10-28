@@ -1,0 +1,151 @@
+.whatsapp nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap:15 px;
+   padding: 15px;
+   background:#111615;
+   color:white;
+}
+
+.details h3,
+.details p {
+    margin: 5px;
+}
+
+.actions {
+    display: flex;
+    gap: 15px;
+}
+
+.linkedin nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 12px;
+    background: white;
+}
+
+.linkedin h2 {
+    color: #0a66c2;
+}
+
+.linkedin input {
+    padding: 10px;
+    background: #edf3f8;
+    border: none;
+    border-radius: 5px;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.menu a {
+    color: #333;
+    text-decoration: none;
+}
+
+.bookmyshow nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 15px;
+}
+
+.bookmyshow h2 {
+    font-size: 20px;
+}
+
+.bookmyshow h2 span {
+    color: #f04455;
+}
+
+.bookmyshow input {
+    padding: 10px;
+    width: 40%;
+}
+
+.bookmyshow button {
+    background: #f04455;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 15px;
+    background: #f4f4f4;
+}
+
+.categories a {
+    color: #333;
+    text-decoration: none;
+}
+
+.wisdom nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 20px;
+    background: #d7eeeb;
+}
+
+.wisdom h3 {
+    color: #19756f;
+}
+
+.wisdom-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.wisdom-menu a {
+    color: #303d42;
+    text-decoration: none;
+}
+
+.wisdom button {
+    background: #ff6b35;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+.instagram-footer {
+    background: #0c1011;
+    color: #ccc;
+    text-align: center;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.footer-links a {
+    color: #ccc;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.instagram-footer p {
+    font-size: 12px;
+}
